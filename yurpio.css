@@ -1,0 +1,146 @@
+html,body {
+  font-family: 'Tajawal', serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+html {
+  overflow-y: hidden !important;
+  background-image: url('https://i.ibb.co/gJzSd6t/remindbackground.jpg') !important;
+  	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+section{
+margin-top: -18px;
+margin-right: 700px;
+padding-right: 100px 100px
+}
+
+html {
+  height:100%;
+  background-image: linear-gradient(to right top, #8e44ad 0%, #3498db 100%);
+
+}
+
+nav {
+  max-width: 660px;
+  mask-image: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #ffffff 25%, #ffffff 75%, rgba(255, 255, 255, 0) 100%);
+  margin-right: 10px;
+  margin-top: -40px;
+  padding: 0px 10px;
+  float: right;
+}
+
+nav ul {
+  text-align: center;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 100%);
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  padding: 12px;
+  font-family: "Open Sans";
+  text-transform:uppercase;
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 18px;
+  text-decoration: none;
+  display: block;
+}
+
+nav ul li a:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.01);
+  color: rgba(0, 209, 178, 0.7);
+}
+
+
+.hero.is-success {
+  background: #F2F6FA;
+}
+
+.hero, .hero.is-success {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+
+  margin-right: 30px;
+}
+
+input {
+  font-weight: 300;
+}
+
+p {
+  font-weight: 700;
+}
+
+p.subtitle {
+  padding-top: 1rem;
+
+}
+
+.facebook-button {
+  color: #fff;
+  background-color: #3a589a;
+  width: 45px;
+}
+
+.facebook-button:hover {
+  border-color: #bdbdbd;
+  color: #ffffff;
+}
+
+.instagram-button {
+  color: #fff;
+  background-color: #125688;
+  width: 45px;
+}
+
+.instagram-button:hover {
+  border-color: #bdbdbd;
+  color: #ffffff;
+}
+
+
+.linkedin-button {
+  color: #fff;
+  background-color: #0077B5;
+  width: 45px;
+}
+
+.linkedin-button:hover {
+  border-color: #bdbdbd;
+  color: #ffffff;
+}
+
+a {
+  color: #fff;
+}
+
+a:hover {
+  color: #d3d6df;
+}
+
+.fa-sign-in-alt {
+  font-size: 36px;
+}
+
+.languages {
+  margin-top: 5px;
+}
+.title.is-1 {
+  font-size: 5rem;
+}
+
+.form-actions {width:200px; margin-left:auto; margin-right:auto;}
